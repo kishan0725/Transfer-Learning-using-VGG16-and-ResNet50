@@ -4,6 +4,8 @@
 
 Transfer learning is a machine learning method where a model developed for a task is reused as the starting point for a model on a second task.
 
+Traditional learning is isolated and occurs purely based on specific tasks, datasets and training separate isolated models on them. No knowledge is retained which can be transferred from one model to another. In transfer learning, we can leverage knowledge (features, weights etc) from previously trained models for training newer models and even tackle problems like having less data for the newer task!
+
 <p align="center"><img src="https://miro.medium.com/max/1838/1*9GTEzcO8KxxrfutmtsPs3Q.png" alt="Traditional Vs Transfer"></p>
 <br>
 
